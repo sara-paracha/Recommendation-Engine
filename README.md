@@ -60,7 +60,7 @@ The project is implemented in a Jupyter Notebook (AirBnb_website_Recommendation_
 - Python
 - pandas, numpy for data manipulation
 - pdfminer.six for PDF text extraction
-- Regular expressions for pattern matching
+- Regular expressions (Regex) for pattern matching
 - seaborn, matplotlib for data visualization
 - scikit-learn for data preprocessing
 
